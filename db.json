@@ -1,16 +1,16 @@
 {
   "clientes": [
     {
-      "nombre": "Edgar - ACTUALIZADO",
-      "empresa": "Codigo Con Juan",
+      "nombre": "Robert",
+      "empresa": "SmartPlan",
       "email": "correo@correo.com",
       "telefono": "129918398193",
       "notas": "El Cliente solicita un servidor",
       "id": 6
     },
     {
-      "nombre": "Juan",
-      "empresa": "Codigo Con Juan",
+      "nombre": "Alex",
+      "empresa": "SmartPlan",
       "email": "correo@correo.com",
       "telefono": "9183981398139",
       "notas": "",
